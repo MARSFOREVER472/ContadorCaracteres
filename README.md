@@ -3,4 +3,4 @@
 ## **_PROGRAMAS REALIZADOS EN JAVASCRIPT_**
 
 ### **_Cómo contar el número de ocurrencias de un carácter dentro de un string._**
-Ejercicios en Javascript
+Ejercicios en Javascript.
