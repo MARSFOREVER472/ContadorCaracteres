@@ -5,3 +5,4 @@
 ### **_Cómo contar el número de ocurrencias de un carácter dentro de un string._**
 
 - **_Ejercicios en Javascript._**
+ Contar cuántas veces se repite una letra en una frase con Javascript
