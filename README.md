@@ -19,3 +19,5 @@
 - **_Y eso es exactamente lo que te vamos a mostrar en este proyecto!_**
 
 - **_En este ejercicio estaremos desarrollando un programa que nos indica el número de veces que un carácter aparece en una frase introducida por el usuario._**
+
+- Este ejercicio es ideal para novatos o principiantes en JS.
