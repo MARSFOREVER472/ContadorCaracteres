@@ -17,3 +17,5 @@
 - **_Y eso no es muy complicado de hacer si utilizamos el lenguaje de programación Javascript._**
 
 - **_Y eso es exactamente lo que te vamos a mostrar en este proyecto!_**
+
+- En este ejercicio estaremos desarrollando un programa que nos indica el número de veces que un carácter aparece en una frase introducida por el usuario.
