@@ -15,3 +15,5 @@
 - **_Algunas veces necesitaremos contar la cantidad de veces que se repite una letra dentro de una frase._**
 
 - **_Y eso no es muy complicado de hacer si utilizamos el lenguaje de programación Javascript._**
+
+- **_Y eso es exactamente lo que te vamos a mostrar en este proyecto!_**
