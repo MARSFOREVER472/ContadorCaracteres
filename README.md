@@ -18,4 +18,4 @@
 
 - **_Y eso es exactamente lo que te vamos a mostrar en este proyecto!_**
 
-- En este ejercicio estaremos desarrollando un programa que nos indica el número de veces que un carácter aparece en una frase introducida por el usuario.
+- _En este ejercicio estaremos desarrollando un programa que nos indica el número de veces que un carácter aparece en una frase introducida por el usuario._
