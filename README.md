@@ -7,4 +7,4 @@
 - **_Ejercicios en Javascript._**
   
 - **_Contar cuántas veces se repite una letra en una frase con Javascript._**
-- _Cómo determinar el número de ocurrencias de un carácter en una string utilizando código en todo Javascript._
+- **_Cómo determinar el número de ocurrencias de un carácter en una string utilizando código en todo Javascript._**
