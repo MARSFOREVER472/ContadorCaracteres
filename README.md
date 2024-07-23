@@ -12,4 +12,4 @@
 
 - **_Crea tu propio programa en Javascript en que sea capaz de determinar el número de ocurrencias de una carácter o letra mediante una frase._**
 
-- _Algunas veces necesitaremos contar la cantidad de veces que se repite una letra dentro de una frase._
+- **_Algunas veces necesitaremos contar la cantidad de veces que se repite una letra dentro de una frase._**
