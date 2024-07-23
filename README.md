@@ -11,4 +11,4 @@
 - **_Cómo determinar el número de ocurrencias de un carácter en una string utilizando código en todo Javascript._**
 
 - **_Crea tu propio programa en Javascript en que sea capaz de determinar el número de ocurrencias de una carácter o letra mediante una frase._**
-Algunas veces necesitaremos contar cuántas veces se repite una letra en una frase. 
+Algunas veces necesitaremos contar la cantidad de veces se repite una letra en una frase. 
